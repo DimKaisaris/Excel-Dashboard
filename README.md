@@ -1,8 +1,9 @@
 # Excel-Dashboard
 
 ## Project Overview
-In this Project I downloaded a dataset from https://www.other-levels.com/ and  
-followed the video instructions to create pivot tables and a super cool Dashboard! 
+In this Project I downloaded a dataset from https://www.other-levels.com/  
+and followed the video instructions to create 
+pivot tables and a super cool Dashboard!  
 tools : MS Excel
 
 ## Long Story Short
